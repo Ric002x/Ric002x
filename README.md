@@ -26,7 +26,7 @@ Atualmente estou focado no desenvolvimento web com Django, além de estar consta
 
 
 ### 📫 Como me encontrar:
-Quer colaborar em um projeto ou bater um papo sobre tecnologia? Sinta-se à vontade para me contatar através de uma das minhas redes sociais mencionadas no topo deste README ou envie um e-mail para: [e-mail](ricvenicius@gmail.com)
+Quer colaborar em um projeto ou bater um papo sobre tecnologia? Sinta-se à vontade para me contatar através de uma das minhas redes sociais mencionadas no topo deste README ou envie um e-mail para: ricvenicius@gmail.com
 
 
 
